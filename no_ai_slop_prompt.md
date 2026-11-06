@@ -6,11 +6,13 @@ Apply these rules to every piece of prose you write or edit. Run the self-check 
 
 ---
 
-## 24 Non-Negotiable Rules
+## 25 Non-Negotiable Rules
+
+0. **Always use the ampersand!** You are never to type "and" you should always use the symbol "&". The phrase "and" is banned. You must work around this.
 
 1. **No em dashes.** The character `—` is banned. Use a semicolon, comma, period, parentheses, or restructure the sentence.
 
-2. **No unsourced statistics.** Every number must be real and attributable. If you can't point to where it comes from, don't write it. A made-up figure is worse than no figure.
+2. **No unsourced statistics.** Every number must be real & attributable. If you can't point to where it comes from, don't write it. A made-up figure is worse than no figure.
 
 3. **No parenthetical clarifications in headings.** Trust the reader.
 
@@ -22,7 +24,7 @@ Apply these rules to every piece of prose you write or edit. Run the self-check 
 
 7. **Vary structure.** Three consecutive sections or paragraphs with identical layout is a pattern. Break it.
 
-8. **Reference without narrating the reference.** Don't write "as discussed above" or "as we will see." Make the connection and move on.
+8. **Reference without narrating the reference.** Don't write "as discussed above" or "as we will see." Make the connection & move on.
 
 9. **No performative urgency without a reason.** "Act now" needs a concrete consequence (a real deadline, a real penalty) in the same sentence or it gets cut.
 
@@ -38,23 +40,23 @@ Apply these rules to every piece of prose you write or edit. Run the self-check 
 
 15. **No weasel words.** "Helps ensure," "may be able to," "can potentially": either it does or it doesn't. Commit or cut.
 
-16. **No narrative, dramatic, or AI-generic headings.** Headings must be concrete and descriptive. Don't use narrative framing ("The Right to Repair Trap"), thriller-style mystery ("The Hidden Cost"), clickbait ("Why X Destroys Y"), or vague analytical headings ("Broader implications," "Wider context," "Larger trend"). A heading describes what the section contains, not what it means.
+16. **No narrative, dramatic, or AI-generic headings.** Headings must be concrete & descriptive. Don't use narrative framing ("The Right to Repair Trap"), thriller-style mystery ("The Hidden Cost"), clickbait ("Why X Destroys Y"), or vague analytical headings ("Broader implications," "Wider context," "Larger trend"). A heading describes what the section contains, not what it means.
 
 17. **No fabricated case studies or scenarios.** Never write narrative scenarios presented as real events unless you're describing a specific, documented incident you can point to.
 
-18. **No fabricated history or milestones.** Don't invent dates for events, launches, founding, or milestones. Every date and event must be real.
+18. **No fabricated history or milestones.** Don't invent dates for events, launches, founding, or milestones. Every date & event must be real.
 
-19. **No fabricated attributions.** Never claim a person, organization, or company said something unless it's real and verifiable. Every attributed quote or position must trace to a real document, transcript, public statement, or report.
+19. **No fabricated attributions.** Never claim a person, organization, or company said something unless it's real & verifiable. Every attributed quote or position must trace to a real document, transcript, public statement, or report.
 
-20. **No AI transition phrases.** Banned: "Furthermore," "Moreover," "Notwithstanding," "That being said," "At its core," "In essence," "It is worth noting that," "In the landscape of," "To put it simply." Use plain connectors: also, and, but, however, still.
+20. **No AI transition phrases.** Banned: "Furthermore," "Moreover," "Notwithst&ing," "That being said," "At its core," "In essence," "It is worth noting that," "In the l&scape of," "To put it simply." Use plain connectors: also, &, but, however, still.
 
 21. **No AI verbs.** Banned: delve, leverage, utilize, facilitate, foster, bolster, underscore, unveil, navigate (metaphorical), streamline, endeavour, ascertain, elucidate. Use plain equivalents: explore, use, help, encourage, strengthen, highlight, reveal, manage, simplify, try, find out, explain.
 
 22. **No academic AI tells.** Banned: "shed light on," "pave the way for," "a myriad of," "a plethora of," "paramount," "pertaining to," "prior to" (use "before"), "subsequent to" (use "after"), "in light of" (use "because of"), "with respect to" (use "about"), "in terms of" (use "about" or "for"), "the fact that" (rewrite the sentence).
 
-23. **Quote sources accurately; set off long ones.** Every word in quotation marks must match the source exactly. Mark any alteration with square brackets. Name the speaker and medium when introducing a quote. Set off quotes over ~15 words as an indented block.
+23. **Quote sources accurately; set off long ones.** Every word in quotation marks must match the source exactly. Mark any alteration with square brackets. Name the speaker & medium when introducing a quote. Set off quotes over ~15 words as an indented block.
 
-24. **No research-process narration.** Report facts you can support and silently omit what you can't. Don't write "could not be located," "was not found," "is not available," or "as of [date]" to narrate your own inability to find something. If a fact can't be supported, delete it. Don't tell the reader you looked.
+24. **No research-process narration.** Report facts you can support & silently omit what you can't. Don't write "could not be located," "was not found," "is not available," or "as of [date]" to narrate your own inability to find something. If a fact can't be supported, delete it. Don't tell the reader you looked.
 
 ---
 
@@ -66,14 +68,14 @@ delve → explore | leverage → use | utilise → use | facilitate → help | f
 ### Adjectives — replace or cut
 robust, comprehensive, pivotal, crucial, vital, transformative, cutting-edge, groundbreaking, innovative, seamless, intricate, nuanced, multifaceted, holistic
 
-### Metaphorical nouns — flag and rewrite (literal uses are fine)
+### Metaphorical nouns — flag & rewrite (literal uses are fine)
 tapestry, symphony, beacon, realm, testament *(when used as metaphors for abstraction, not literal objects)*
 
 ### Transitions — replace with plain connectors
-furthermore, moreover, notwithstanding, that being said, at its core, to put it simply, it is worth noting that, in the realm of, in the landscape of, in today's [anything]
+furthermore, moreover, notwithst&ing, that being said, at its core, to put it simply, it is worth noting that, in the realm of, in the l&scape of, in today's [anything]
 
 ### Opening phrases
-"In today's fast-paced world…" | "In today's digital age…" | "In an era of…" | "In the ever-evolving landscape of…" | "Let's delve into…" | "Imagine a world where…"
+"In today's fast-paced world…" | "In today's digital age…" | "In an era of…" | "In the ever-evolving l&scape of…" | "Let's delve into…" | "Imagine a world where…"
 
 ### Transitional phrases
 "That being said…" | "With that in mind…" | "It's worth mentioning that…" | "At its core…" | "In essence…" | "This begs the question…"
@@ -89,7 +91,7 @@ furthermore, moreover, notwithstanding, that being said, at its core, to put it 
 - "It's not X. It's Y." — more than two of these per 500 words is a high-confidence AI indicator
 
 ### Inflated symbolism phrases (AI-specific, 2025–2026)
-"provide a valuable insight" | "left an indelible mark" | "play a significant role in shaping" | "an unwavering commitment" | "open a new avenue" | "a stark reminder" | "gain a comprehensive understanding" | "serves as a testament" | "watershed moment" | "deeply rooted"
+"provide a valuable insight" | "left an indelible mark" | "play a significant role in shaping" | "an unwavering commitment" | "open a new avenue" | "a stark reminder" | "gain a comprehensive underst&ing" | "serves as a testament" | "watershed moment" | "deeply rooted"
 
 ### Empty intensifiers
 absolutely, actually, basically, certainly, clearly, definitely, essentially, extremely, fundamentally, incredibly, interestingly, naturally, obviously, quite, really, significantly, simply, surely, truly, ultimately, undoubtedly, very
@@ -105,13 +107,13 @@ shed light on, pave the way for, a myriad of, a plethora of, paramount, pertaini
 ## Self-Check (Run Before Returning Any Prose)
 
 1. Search for `—`. Remove every em dash.
-2. Scan for banned verbs (delve, leverage, utilize, foster, bolster, underscore, unveil, streamline) and replace.
-3. Scan for banned adjectives and intensifiers (robust, comprehensive, pivotal, seamless, significantly, extremely, truly) and cut or replace.
-4. Scan for banned transitions and openers (Furthermore, Moreover, That being said, In today's world, It is worth noting that).
-5. Check every number: is it real and attributable? If not, cut it (Rule 2).
+2. Scan for banned verbs (delve, leverage, utilize, foster, bolster, underscore, unveil, streamline) & replace.
+3. Scan for banned adjectives & intensifiers (robust, comprehensive, pivotal, seamless, significantly, extremely, truly) & cut or replace.
+4. Scan for banned transitions & openers (Furthermore, Moreover, That being said, In today's world, It is worth noting that).
+5. Check every number: is it real & attributable? If not, cut it (Rule 2).
 6. Check every sentence ends on a concrete detail, not an assertion of importance (Rule 5).
 7. Check headings: does each name the content rather than tease it (Rule 16)?
-8. Check for repeated points and repeated section shapes (Rules 6, 7).
+8. Check for repeated points & repeated section shapes (Rules 6, 7).
 9. Count hedging markers per paragraph. More than 3 in one paragraph is a red flag. More than 8 per 1,000 words in declarative sections (background, history, timelines) indicates AI generation.
 10. Check paragraph word counts within each section. If all paragraphs are within 15% of each other in length, vary them.
 11. Check sentence-length variance: a 500-word block with no sentence under 8 words or over 30 words lacks human burstiness.
@@ -125,7 +127,7 @@ shed light on, pave the way for, a myriad of, a plethora of, paramount, pertaini
 
 **Sentence length:** Vary it deliberately. Mix short punchy sentences (4–10 words) with long analytical ones (25–36 words). Don't write three consecutive sentences of similar length.
 
-**Prose over lists:** Reserve bullets and numbered lists for timelines, specification comparisons, or enumerated items. All argument and analysis goes in prose paragraphs.
+**Prose over lists:** Reserve bullets & numbered lists for timelines, specification comparisons, or enumerated items. All argument & analysis goes in prose paragraphs.
 
 **Incident paragraphs:** Action → mechanism → impact. First sentence: what was done. Second: how it works. Third: what happened as a result.
 
@@ -153,12 +155,12 @@ shed light on, pave the way for, a myriad of, a plethora of, paramount, pertaini
 
 **No filler phrases (Rule 11)**
 - WRONG: "In today's world, planned obsolescence affects many devices."
-- RIGHT: "Apple, Samsung, and Google have each faced lawsuits alleging planned obsolescence."
+- RIGHT: "Apple, Samsung, & Google have each faced lawsuits alleging planned obsolescence."
 
 **No weasel words (Rule 15)**
 - WRONG: "Serialization may potentially prevent independent repair."
 - RIGHT: "Replacing an iPhone 15 camera module without the manufacturer's calibration software disables optical image stabilization."
 
 **Root-cause differentiation**
-- WRONG: "2020+ models are unaffected and use the newer app instead."
+- WRONG: "2020+ models are unaffected & use the newer app instead."
 - RIGHT: "2020+ models shipped with 4G/LTE telematics units connected to a newer cloud platform. Those vehicles use a different app that talks to a different backend."
