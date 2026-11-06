@@ -2,6 +2,8 @@
 
 Single-file universal prompt distilled from [realrossmanngroup/no\_ai\_slop\_writing\_rules](https://github.com/realrossmanngroup/no_ai_slop_writing_rules) by Louis Rossmann.
 
+This distilled version is the work of MegaDyneSystems, I just wanted a very slight adjustment for my own writing preferences & a markdown free version I could easily reference.
+
 Paste it into Qwen, Kimi, GLM, GPT, Deepseek, Gemini, Claude or any AI agent or chatbot. All 24 rules, the full banned-words reference, structural guidance, and a self-check checklist. One file, no dependencies.
 
 ## What's Inside
